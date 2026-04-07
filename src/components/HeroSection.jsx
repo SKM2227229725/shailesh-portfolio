@@ -87,16 +87,15 @@ const HeroSection = () => {
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.5, delay: 0.3 }}
       >
-        <div className="relative w-62.5 h-62.5 lg:w-75 lg:h-110 rounded-3xl overflow-hidden border-5 border-white hidden md:block">
-          <Image
-            src="/shailesh.png"
-            alt="Shailesh Kumar"
-            width={300}
-            height={300}
-            className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 object-cover"
-            priority
-          />
-        </div>
+       <div className="relative w-62.5 h-62.5 lg:w-75 lg:h-110 rounded-3xl overflow-hidden border-5 border-white hidden md:block">
+  <Image
+    src="/shailesh.png"
+    alt="Shailesh Kumar"
+    fill
+    className="object-cover object-top"
+    priority
+  />
+</div>
       </motion.div>
     </div>
   );
