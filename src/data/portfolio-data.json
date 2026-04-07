@@ -1,0 +1,66 @@
+[
+  {
+    "id": "about",
+    "text": "Shailesh Kumar is a B.Tech Computer Science and Engineering student (2023–2027) at Rajkiya Engineering College, Sonbhadra. He is focused on backend development, open source, and AI-driven applications, with hands-on experience in Machine Learning, NLP, and real-world software projects."
+  },
+  {
+    "id": "education",
+    "text": "Shailesh Kumar is pursuing B.Tech in Computer Science and Engineering at Rajkiya Engineering College, Sonbhadra. He is also strengthening his Data Structures and Algorithms, backend development, and systems knowledge."
+  },
+  {
+    "id": "skills_programming",
+    "text": "Shailesh works with Python, C, C++, JavaScript, HTML, and CSS. He has a strong interest in problem solving, backend systems, and practical software development."
+  },
+  {
+    "id": "skills_frameworks",
+    "text": "Shailesh has experience with Django, Flask, React, Tailwind CSS, NumPy, Pandas, and Matplotlib. He also works with Machine Learning, NLP, and backend integration."
+  },
+  {
+    "id": "tools",
+    "text": "Shailesh uses Git, GitHub, VS Code, Jupyter Notebook, and Google Colab in his development workflow."
+  },
+  {
+    "id": "experience_infosys",
+    "text": "Shailesh completed an AI/Software Engineering internship at Infosys Springboard from November 2025 to January 2026. During this internship, he worked on an Intelligent Research Paper Summarization and Insight Extraction Platform using AI, ML, and NLP concepts."
+  },
+  {
+    "id": "experience_cloud",
+    "text": "Shailesh serves as Cloud Computing Lead at Community for Technology and Coding (CTC), REC Sonbhadra, where he leads cloud-focused initiatives, peer learning sessions, and student mentoring in cloud-based application development."
+  },
+  {
+    "id": "experience_ai_foundations",
+    "text": "Shailesh completed an AI internship under Microsoft collaboration with Edunet Foundation and AICTE from April 2025 to May 2025, where he studied AI fundamentals, machine learning algorithms, neural networks, and problem solving."
+  },
+  {
+    "id": "project_research_summarizer",
+    "text": "Project: AI Research Paper Summarization and Insight Extraction Platform. Shailesh worked on this project during his Infosys Springboard internship, applying NLP, machine learning, data preprocessing, and backend integration to extract insights from research papers and generate concise summaries."
+  },
+ {
+  "id": "project_fraud_detection",
+  "text": "Project: Online Payment Fraud Detection. Shailesh developed a machine learning-based project to detect fraudulent online payment transactions using data preprocessing, model training, and predictive analysis."
+},
+{
+  "id": "project_coding_club",
+  "text": "Project: Coding Club Website. Shailesh built a website for the coding club to showcase activities, events, resources, and updates, with a focus on clean design and student engagement."
+},
+  {
+    "id": "open_source",
+    "text": "Shailesh contributes to open-source projects such as preCICE and EROFS. His open-source work includes real codebase exploration, contributions, and proposal preparation for GSoC."
+  },
+  {
+    "id": "achievements",
+    "text": "Shailesh has participated in Smart India Hackathon in 2024 and 2025 at college level, contributed to open-source projects like preCICE and EROFS, and completed recognized internship and learning programs in AI and software engineering."
+  },
+  {
+    "id": "certificates",
+    "text": "Shailesh has participated in Adobe Hackathon 2025, served as Umeed Educator at REC Sonbhadra, participated in Smart India Hackathon in 2024 and 2025, and completed Microsoft Learn Power Platform Fundamentals."
+  },
+  {
+    "id": "projects_summary",
+    "text": "Shailesh Kumar has worked on AI and full-stack projects including an AI-powered research paper summarization platform, InterviewX, and Blogify. These projects reflect his experience in NLP, backend development, authentication systems, and practical application building."
+  },
+  {
+    "id": "contact",
+    "text": "Shailesh Kumar can be contacted through the portfolio contact form, LinkedIn, GitHub, and email. He is open to opportunities in software engineering, backend development, open source, and AI/ML."
+  }
+]
