@@ -18,7 +18,6 @@ This portfolio showcases shailesh kumar's projects, skills, and experience with 
 ## ✨ Features
 
 - **🤖 AI Chatbot**: Intelligent assistant powered by LLaMA 3.1 that understands portfolio context and answers questions about projects, skills, and experience
-- **📊 LeetCode Integration**: Real-time LeetCode statistics fetched via external API (1000+ problems solved)
 - **✉️ Email Integration**: Contact form with email sending via Resend
 - **🎨 Smooth Animations**: Framer Motion animations and React Type Animation for engaging UI
 - **📱 Fully Responsive**: Design optimized for all screen sizes
