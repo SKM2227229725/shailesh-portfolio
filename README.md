@@ -1,3 +1,4 @@
+
 # 🌐 Portfolio Website – Next.js + AI Chatbot
 
 A modern, interactive personal portfolio website built using **Next.js 16** with an **AI-powered chatbot**. 
@@ -18,9 +19,9 @@ This portfolio showcases shailesh kumar's projects, skills, and experience with 
 ## ✨ Features
 
 - **🤖 AI Chatbot**: Intelligent assistant powered by LLaMA 3.1 that understands portfolio context and answers questions about projects, skills, and experience
-- **✉️ Email Integration**: Contact form with email sending via Resend
+- **✉️ Email Integration**: Contact form with email sending via Resend................
 - **🎨 Smooth Animations**: Framer Motion animations and React Type Animation for engaging UI
-- **📱 Fully Responsive**: Design optimized for all screen sizes
+- **📱 Fully Responsive**: Design optimized for all screen size.
 - **⚡ Performance Optimized**: Next.js optimization, image handling, and API caching
 - **🔄 Modular Components**: Reusable, maintainable component architecture
 - **📈 Project Showcase**: Dynamic project cards with detailed descriptions
