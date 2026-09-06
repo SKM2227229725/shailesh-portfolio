@@ -13,25 +13,30 @@ const TAB_DATA = [
       <ul className="list-disc list-inside space-y-3 text-gray-300">
         <li>
           <span className="font-semibold text-white">Languages:</span>{" "}
-          Python, C, C++, JavaScript, HTML, CSS
+          Python, C++, JavaScript, TypeScript, HTML5, CSS3
         </li>
 
         <li>
           <span className="font-semibold text-white">
             Frameworks & Libraries:
           </span>{" "}
-          Django, Flask, React, Tailwind CSS, NumPy, Pandas, Matplotlib
+          Django, Django REST Framework (DRF), React.js, Tailwind CSS
+        </li>
+
+        <li>
+          <span className="font-semibold text-white">Databases:</span>{" "}
+          PostgreSQL, MongoDB, SQLite
         </li>
 
         <li>
           <span className="font-semibold text-white">Tools:</span>{" "}
-          Git, GitHub, VS Code, Jupyter Notebook, Google Colab
+          Git, GitHub, Vercel, Render
         </li>
 
         <li>
           <span className="font-semibold text-white">Core Areas:</span>{" "}
-          Backend Development, Machine Learning, NLP, Data Structures &
-          Algorithms, Open Source
+          Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems,
+          Computer Networks, REST APIs, JWT Authentication, Generative AI, 
         </li>
 
         <li>
@@ -54,7 +59,7 @@ const TAB_DATA = [
           — Rajkiya Engineering College, Sonbhadra
           <br />
           <span className="text-sm text-gray-400">
-            2023 – 2027 | SGPA: 8.45
+            2023 – 2027 | SGPA: 8.4
           </span>
         </li>
 
@@ -180,7 +185,7 @@ const AboutMeSection = () => {
 
           <p className="text-gray-300 leading-7">
             I have hands-on experience in ML, NLP, and web development,
-            including an 8-week AI/Software Engineering internship at Infosys
+            including an  2 months AI/Software Engineering internship at Infosys
             Springboard where I developed an AI-powered research paper
             summarizer.
           </p>

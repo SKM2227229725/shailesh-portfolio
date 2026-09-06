@@ -14,14 +14,14 @@ const projectsData = [
     url: "https://github.com/SKM2227229725/AI-ResearchPaper-Summarizer",
     live: "https://reserachinsigher.netlify.app/",
   },
-  {
+ {
     id: 2,
-    title: "Online Payment Fraud Detection",
+    title: "AI Revenue Recovery System",
     description:
-      "ML-based system to detect fraudulent transactions using data-driven analysis.",
-    image: "/fraud.png",
-    url: "https://github.com/SKM2227229725/Online-Payment-Fraud-Detection-using-ML",
-  },
+      "AI-powered system to recover and optimize revenue through intelligent, data-driven analysis.",
+    image: "/revenue.png",
+    url: "https://github.com/SKM2227229725/ai-revenue-recovery",
+},
   {
     id: 3,
     title: "Coding Club Website",

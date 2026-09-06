@@ -5,9 +5,22 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
+    role: "Python Developer Intern",
+    company: "SoftPro India, Lucknow",
+    duration: "Jun 2026 – Jul 2026",
+    points: [
+      "Completed hands-on training in Python, Django, Django REST Framework (DRF), PostgreSQL, and REST APIs.",
+      "Built backend modules and integrated databases using Django, strengthening skills in server-side development.",
+      "Gained practical experience in API development, database integration, and backend debugging.",
+    ],
+    tech: ["Python", "Django", "DRF", "PostgreSQL", "REST APIs"],
+},
+
+
+  {
     role: "AI/Software Engineering Intern",
     company: "Infosys Springboard",
-    duration: "Nov 2025 – Jan 2026",
+    duration: "Nov 2025 – Feb 2026",
     points: [
       "Built an AI-powered research paper summarization platform using NLP and practical ML workflows.",
       "Worked on data preprocessing, model development, and problem-solving for real-world use cases.",
@@ -15,28 +28,18 @@ const experiences = [
     ],
     tech: ["Python", "NLP", "Machine Learning", "Django", "Git"],
   },
-  {
-    role: "Cloud Computing Lead",
-    company: "Community for Technology and Coding (CTC) – REC Sonbhadra",
-    duration: "July 2025 – Present",
+ {
+    role: "Core Team Lead",
+    company: "Community for Technology and Coding (CTC), REC Sonbhadra",
+    duration: "Sept 2025 – March 2026",
     points: [
-      "Led cloud-focused initiatives and peer learning sessions within the student community.",
-      "Promoted awareness of cloud technologies and guided students in understanding practical use cases.",
-      "Mentored peers in building and exploring cloud-based application workflows.",
+      "Led coding workshops and technical events for the student community.",
+      "Mentored junior students, guiding them through technical concepts and hands-on learning.",
+      "Coordinated technical activities and collaborated with student teams to drive engagement.",
     ],
-    tech: ["Cloud", "Google Cloud", "Leadership", "Mentorship"],
-  },
-  {
-    role: "AI Intern – Foundations of Artificial Intelligence",
-    company: "Microsoft collaboration with Edunet Foundation & AICTE",
-    duration: "Apr 2025 – May 2025",
-    points: [
-      "Studied the core foundations of Artificial Intelligence and Machine Learning.",
-      "Implemented basic AI/ML algorithms and explored concepts like neural networks.",
-      "Built stronger conceptual understanding of applied AI for real-world problem solving.",
-    ],
-    tech: ["AI", "ML", "Neural Networks", "Python"],
-  },
+    tech: ["Leadership", "Mectorship", "Community Building", "Technical Workshops"],
+},
+
 ];
 
 const ExperienceSection = () => {

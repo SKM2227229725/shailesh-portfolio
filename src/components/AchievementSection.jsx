@@ -5,21 +5,24 @@ import { motion } from "framer-motion";
 
 const achievements = [
   {
+    title: "DSA Problem Solver",
+    desc: "Solved 500+ DSA problems across LeetCode and GeeksforGeeks.",
+  },
+  {
     title: "Open Source Contributor",
-    desc: "Merged PRs in EROFS docs and contributed to preCICE.",
+    desc: "Contributed to GSoC-affiliated open-source projects with 3 merged pull requests.",
     link: "https://github.com/erofs/docs/pull/18",
-    link2:"https://github.com/erofs/docs/pull/23",
+    link2: "https://github.com/erofs/docs/pull/23",
   },
   {
     title: "SIH Participant",
-    desc: "Built an Online Automated Timetable Generator.",
+    desc: "Participated in Smart India Hackathon; developed a working prototype.",
   },
   {
-    title: "GSoC 2026 Applicant",
-    desc: "Submitted proposals backed by real open-source work.",
+    title: "Kipps.AI Hackathon 2026",
+    desc: "Idea shortlisted in the Agentic AI challenge.",
   },
 ];
-
 const AchievementSection = () => {
   return (
     <section id="achievements" className="text-white py-14 px-4">
